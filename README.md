@@ -9,7 +9,7 @@ It is made up of sereval abstract data types whose specifications are included.
 
 In broad strokes, we have ingredients which compose sets of ingredients. Then we have a cpp file in which
 this data types are tested.
-On top of that, we have recipes which are also made up ingredients but including some extra information.
+On top of that, we have recipes which are also made up of ingredients but including some extra information.
 It also includes sets of recipes.
 The last ADTs are actions and instructions. These are ultimately designed to represent a series of steps in order
 to create a specific recipe. The way in which they work together is described within the documentation.
