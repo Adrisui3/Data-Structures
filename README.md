@@ -12,7 +12,7 @@ this data types are tested.
 On top of that, we have recipes which are also made up ingredients but including some extra information.
 It also includes sets of recipes.
 The last ADTs are actions and instructions. These are ultimately designed to represent a series of steps in order
-to create a specific recipe.
+to create a specific recipe. The way in which they work together is described within the documentation.
 
 I want to highlight again that this explanation is NOT precise whatsoever, and if you want to have a proper one, you should definititely
 get it using the makefile or contact me or my partner through e-mail.
