@@ -1,5 +1,5 @@
 # Data-Structures
-STL Practicing
+Data-structures practicing
 
 University project intended to study several data structures, specially binary trees.
 Using "make documentacion" you can get all the documentation and explanations in Spanish, 
